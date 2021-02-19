@@ -22,7 +22,6 @@ function EventList() {
 
   return (
     <div>
-      <h1>Play Ball!</h1>
       <div>
         <Form>
           <Form.Row>
