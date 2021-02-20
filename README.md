@@ -4,7 +4,7 @@ You can either clone the repository from the github or downlad the zip.
 
 The clone link and download option can be found from right side of the repository page
 
-After either cloning or downloading the project open it in your preferred code editor to view the code.
+After either cloning or downloading the project open it in your preferred code editor and navigate to (src/components/eventList.js) to view the code.
 
 Next navigate to the unzipped folder in you terminal and make sure you cd into the (hs-sports2) folder from there. 
 
