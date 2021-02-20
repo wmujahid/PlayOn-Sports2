@@ -1,3 +1,17 @@
+# How to run this project.
+
+You can either clone the repository from the github or downlad the zip.
+
+The clone link and download option can be found from right side of the repository page
+
+After either cloning or downloading the project open it in your preffered code editor to view the code.
+
+Next navigate to the unzipped folder in you terminal and make sure you cd into the (hs-sports2) folder from there. 
+
+Once inside the (hs-sports2) folder run a npm install or yarn install to make sure all the dependencies are installed to run the project.
+
+Once the npm or yarn install has completetd run a npm start or yarn start to run the code locally in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
