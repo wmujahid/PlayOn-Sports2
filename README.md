@@ -1,16 +1,7 @@
 # How to run this project.
 
-You can either clone the repository from the github or downlad the zip.
-
-The clone link and download option can be found from right side of the repository page
-
-After either cloning or downloading the project open it in your preferred code editor and navigate to (src/components/eventList.js) to view the code.
-
-Next navigate to the unzipped folder in you terminal and make sure you cd into the (hs-sports2) folder from there. 
-
-Once inside the (hs-sports2) folder run a npm install or yarn install to make sure all the dependencies are installed to run the project.
-
-Once the npm or yarn install has completetd run a npm start or yarn start to run the code locally in your browser.
+You can either clone the repository from the github or downlad the zip to view the code (make sure you're on the playground branch).
+In order to view the running code please click this link: https://wmujahid.github.io/hs-sports2/
 
 # Getting Started with Create React App
 
