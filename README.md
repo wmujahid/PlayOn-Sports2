@@ -1,6 +1,6 @@
 # How to run this project.
 
-You can either clone the repository from the github or downlad the zip to view the code.
+You can either clone the repository from the github or downlad the zip to view the code (make sure you're on the playground branch).
 In order to view the running code please click this link: https://wmujahid.github.io/hs-sports2/
 
 # Getting Started with Create React App
